@@ -1,0 +1,3 @@
+var uint64 x = 255 ;
+var int32 y = -120 ;
+kill
